@@ -1,0 +1,25 @@
+[{
+	"firstName": "Сергей",
+	"lastName": "Сергеев",
+	"address": "г.Ленинград, Московское ш., 101, кв.101",
+	"postalCode": 101101,
+	"phoneNumber": 8121231233   
+}, {
+	"firstName": "Алена",
+	"lastName": "Петрова",
+	"address": "г.Свердловск, ул. Щорса., 101, кв.1",
+	"postalCode": 101101,
+	"phoneNumber": 8123122345 	
+}, {
+	"firstName": "Иван",
+	"lastName": "Игнатов",
+	"address": "г.Волгоград, ул. Ленина, 10, кв.9",
+	"postalCode": 101101,
+	"phoneNumber": 8123213322
+}, {
+	"firstName": "Мария",
+	"lastName": "Скворцова",
+	"address": "г.Пермь, пр-т Космонавтов, 33, кв.23",
+	"postalCode": 120144,
+	"phoneNumber": 8123253325
+}]
